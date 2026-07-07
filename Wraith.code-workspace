@@ -1,0 +1,15 @@
+{
+    "folders": [
+        {
+            "path": "../wraith_drop_demo"
+        },
+        {
+            "path": "../PX4-Autopilot"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "**/.git": true
+        }
+    }
+}
